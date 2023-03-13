@@ -1,0 +1,64 @@
+---
+title: 'VICTOR VALERIO'
+subtitle: 'Veja Compromissos e Marque Reuniões'
+output:
+  xaringan::moon_reader:
+    css: ['default', 'meutema.css']
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+class: inverse
+## COMPROMISSOS AGENDADOS
+<div style="text-align: justify">
+Você pode conferir abaixo a minha disponibilidade e as ações que estão 
+sendo realizadas por mim. Essa informação é importante pois esclarece o meu 
+contexto de trabalho no momento em que você pretende realizar alguma 
+solicitação e/ou agendar alguma reunião comigo. 
+
+---
+class: inverse, center, middle 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTitle=0&showDate=0&showPrint=0&showCalendars=0&showTz=0&mode=WEEK&src=dmljdG9yLmRtdkB1bmlmZWkuZWR1LmJy&src=Y18wcHRmdnNzZmk1Z3U2N3UxcXViazNtZTIzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YWRtLml0YWp1YmFAdW5pZmVpLmVkdS5icg&src=dmljdG9yLmRtdkBnbWFpbC5jb20&color=%23039BE5&color=%23F6BF26&color=%23D50000&color=%23F4511E" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+---
+class: inverse
+## ENTRE EM CONTATO
+<div style="text-align: justify">
+
+Você pode entrar em contato diretamente comigo pelos seguintes canais de 
+comunicação:
+
+- E-mail (Coordenação de Curso ADM): adm.itajuba@unifei.edu.br
+
+- E-mail (Profissional): victor.dmv@unifei.edu.br
+
+- Telefone: (35) 3629-1151
+
+---
+class: inverse
+## MARQUE SUA REUNIÃO
+<div style="text-align: justify">
+
+Se preferir, agende uma reunião presencial ou virtual comigo, basta 
+selecionar abaixo o dia e horário e a agenda da coordenação já estará 
+fechada para nossa  conversa. Não se esqueça de adicionar seu contato 
+(e-mail) e também a pauta da reunião para que eu já possa chegar preparado. 
+Logo após, confira na minha agenda acima se a reunião solicitada por você 
+já consta na agenda!
+
+---
+class: inverse, center, middle 
+<!-- Widget em linha do Calendly - início -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/profvictorvalerio/coordenacao-adm?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Widget em linha do Calendly - fim -->
+
+
+
+
+
+
+
